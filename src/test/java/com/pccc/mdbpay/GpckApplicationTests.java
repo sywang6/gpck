@@ -12,5 +12,9 @@ public class GpckApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	@Test
+	public void testGit() {
+	}
 
 }
